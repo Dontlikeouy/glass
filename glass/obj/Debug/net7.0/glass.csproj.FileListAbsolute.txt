@@ -1,0 +1,14 @@
+C:\Users\cookl\Desktop\Programming\VSCode\Project\C_Sharp\glass\bin\Debug\net7.0\glass.exe
+C:\Users\cookl\Desktop\Programming\VSCode\Project\C_Sharp\glass\bin\Debug\net7.0\glass.deps.json
+C:\Users\cookl\Desktop\Programming\VSCode\Project\C_Sharp\glass\bin\Debug\net7.0\glass.runtimeconfig.json
+C:\Users\cookl\Desktop\Programming\VSCode\Project\C_Sharp\glass\bin\Debug\net7.0\glass.dll
+C:\Users\cookl\Desktop\Programming\VSCode\Project\C_Sharp\glass\bin\Debug\net7.0\glass.pdb
+C:\Users\cookl\Desktop\Programming\VSCode\Project\C_Sharp\glass\obj\Debug\net7.0\glass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cookl\Desktop\Programming\VSCode\Project\C_Sharp\glass\obj\Debug\net7.0\glass.AssemblyInfoInputs.cache
+C:\Users\cookl\Desktop\Programming\VSCode\Project\C_Sharp\glass\obj\Debug\net7.0\glass.AssemblyInfo.cs
+C:\Users\cookl\Desktop\Programming\VSCode\Project\C_Sharp\glass\obj\Debug\net7.0\glass.csproj.CoreCompileInputs.cache
+C:\Users\cookl\Desktop\Programming\VSCode\Project\C_Sharp\glass\obj\Debug\net7.0\glass.dll
+C:\Users\cookl\Desktop\Programming\VSCode\Project\C_Sharp\glass\obj\Debug\net7.0\refint\glass.dll
+C:\Users\cookl\Desktop\Programming\VSCode\Project\C_Sharp\glass\obj\Debug\net7.0\glass.pdb
+C:\Users\cookl\Desktop\Programming\VSCode\Project\C_Sharp\glass\obj\Debug\net7.0\glass.genruntimeconfig.cache
+C:\Users\cookl\Desktop\Programming\VSCode\Project\C_Sharp\glass\obj\Debug\net7.0\ref\glass.dll
